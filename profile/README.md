@@ -26,11 +26,11 @@ NOTE: this contract addresses are deployed and verified on `Lisk` testnet.
 
 Check out the Prosure frontend [here](https://prosure-frontend.vercel.app/).
 
-![Frontend Page](./assests/landingPage.jpg)
+![Frontend Page](https://github.com/ALMON-CHAINCRAFTS/Prosure-contract/blob/main/assests/landingPage.jpg)
 
-![Dashboard Page](./assests/dashboard.jpg)
+![Dashboard Page](https://github.com/ALMON-CHAINCRAFTS/Prosure-contract/blob/main/assests/dashboard.jpg)
 
-![Insure Page](./assests/InsurePage.jpg)
+![Insure Page](https://github.com/ALMON-CHAINCRAFTS/Prosure-contract/blob/main/assests/InsurePage.jpg)
 
 ## About Prosure
 
