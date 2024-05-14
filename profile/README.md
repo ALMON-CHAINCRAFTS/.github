@@ -6,7 +6,7 @@ Welcome to the Prosure smart contract repository! This document provides an over
 
 Understanding this design is crucial to understanding the contracts!
 
-![Prosure Architecture Design](./assests/contract-design.jpg)
+![Prosure Architecture Design](https://github.com/ALMON-CHAINCRAFTS/Prosure-contract/blob/main/assests/contract-design.jpg)
 
 ## Smart Contract Addresses
 
