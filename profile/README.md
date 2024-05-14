@@ -1,6 +1,6 @@
 # Prosure Smart Contract Readme
 
-Welcome to the Prosure smart contract repository! This document provides an overview of the Prosure, a decentralized insurance platform aimed at providing coverage for users affected by DeFi hacks. The smart contracts are deployed on the Ethereum blockchain.
+Welcome to the Prosure smart contract repository! This document provides an overview of Prosure, a decentralized insurance platform aimed at providing coverage for users affected by DeFi hacks. The smart contracts are deployed on the Ethereum blockchain.
 
 ## Architecture Design
 
